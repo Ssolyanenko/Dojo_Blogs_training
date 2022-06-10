@@ -2,7 +2,7 @@
   "name": "untitled3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ssolyanenko.github.io/react3/index.html",
+  "homepage": "https://ssolyanenko.github.io/react3/",
   "build": "react-scripts build && cp build/index.html build/404.html",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
